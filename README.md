@@ -18,3 +18,19 @@ Ciência de Dados -> Obter **``insights``** dos **Dados**.
 > **Ciência de Dados** pega "_dados não estruturados_" e depois **encontra ordem, significado e valor nos dados**. São "dados importantes", mas não são fáceis de encontrar.
 
 > **Ciência de Dados** fornece "_insights_" sobre o que está acontecendo ao seu redor e, de "maneira crítica", **fornece vantagem competitiva**, que é muito importante em "ambientes de negócios".
+
+- [Diagram Venn - Data Science](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+
+- **Codificação**: Ajuda na **coleta e preparação dos dados**. Muito dos **dados** vêm de "_fontes novas_" e não estão necessariamente prontos para coleta e podem possuir formatos incomuns. **Codificação** "exige" _criatividade para obter os dados_ para colocá-los em análise.
+    
+    Tipos de **Codificação**:
+    - **Estatística** - Linguagens de Programação (``R`` & ``Python``).
+        - **``R``** - Linguagem específica para **Dados**.
+        - **``Pytho``** - Linguagem de uso geral, mas bem adaptada para **Dados**.
+
+    > A capacidade de trabalhar com **bancos de dados** (``BDs``) é importante. A linguagem mais comum é o **``SQL``**, que significa _Structured Query Language_ e é "onde estão os _dados_".
+
+    - A **Interface de Linha de Comando** (``Terminal``). A linguagem mais comum é o **``Bash``** que significa _Bourne-again shell_.
+
+    - Pesquisar com ``Regex`` que é uma _pesquisa "curinga" superpoderosa que torna possível encontrar os **dados** e formatá-los_ de maneiras que serão úteis durante a **análise**.
+        
