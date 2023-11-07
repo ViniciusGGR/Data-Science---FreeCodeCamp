@@ -36,5 +36,7 @@ Ciência de Dados -> Obter **``insights``** dos **Dados**.
         
 - **Matemática**: Conhecer um pouco de _probabilidade_, _álgebra_, _regressão_ (**estatística**). Entender e conhecer **matemática** é importante, pois _ajuda a escolher os procedimentos apropriados para responder à perguntas com os dados disponíveis_. A **matemática** também _ajuda a diagnosticar problemas quando as coisas não saem como esperado_.
 
-- **Domínio**:
+- **Domínio**: Experiência na área em que você atua. Ambientes de negócios são comuns. É preciso saber sobre os **objetivos desse campo**, os _métodos que são usados_ e as **restrições que as pessoas se deparam**. E é importante porque sejam quais forem os seus resultados, é _preciso para poder implementá-los bem_. A **Ciência de Dados** _é muito prática e foi projetada para realizar algo_. E a familiaridade com um determinado campo de prática fará com que fique muito mais fácil e impactante quando implementar os resultados de uma análise.
+
+
 
