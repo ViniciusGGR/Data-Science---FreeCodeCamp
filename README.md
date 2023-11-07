@@ -34,3 +34,5 @@ Ciência de Dados -> Obter **``insights``** dos **Dados**.
 
     - Pesquisar com ``Regex`` que é uma _pesquisa "curinga" superpoderosa que torna possível encontrar os **dados** e formatá-los_ de maneiras que serão úteis durante a **análise**.
         
+- **Matemática**: Conhecer um pouco de probabilidade, álgebra, regressão (estatística). Entender e conhecer matemática é importante, pois ajuda a escolher os procedimentos apropriados para responder à perguntas com os dados disponíveis. A matemática também ajuda a diagnosticar problemas quando as coisas não saem como esperado.
+
