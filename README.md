@@ -38,5 +38,9 @@ Ciência de Dados -> Obter **``insights``** dos **Dados**.
 
 - **Domínio**: Experiência na área em que você atua. Ambientes de negócios são comuns. É preciso saber sobre os **objetivos desse campo**, os _métodos que são usados_ e as **restrições que as pessoas se deparam**. E é importante porque sejam quais forem os seus resultados, é _preciso para poder implementá-los bem_. A **Ciência de Dados** _é muito prática e foi projetada para realizar algo_. E a familiaridade com um determinado campo de prática fará com que fique muito mais fácil e impactante quando implementar os resultados de uma análise.
 
+1. **Machine Learning (_ML_) - Aprendizado de Máquina**: Representa _codificação_ ou _programação estatística e matemática_, sem qualquer conhecimento real do domínio. Às vezes estes são chamados de **modelos** de "_caixa preta_". Eles meio que jogam dados e nem necessariamente será preciso saber o que significa ou em que idioma está.
+    - O **Machine Learning** é _considerado um pouco diferente_ da **Ciência de Dados** porque não envolvem as aplicações específicas em um domínio específico.
+2. **Traditional Research - Pesquisa Tradicional**:
+3. **Danger Zone? - Zona de Perigo?**:
 
-
+12.30
