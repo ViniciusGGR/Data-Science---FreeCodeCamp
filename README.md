@@ -40,7 +40,7 @@ Ciência de Dados -> Obter **``insights``** dos **Dados**.
 
 1. **Machine Learning (_ML_) - Aprendizado de Máquina**: Representa _codificação_ ou _programação estatística e matemática_, sem qualquer conhecimento real do domínio. Às vezes estes são chamados de **modelos** de "_caixa preta_". Eles meio que jogam dados e nem necessariamente será preciso saber o que significa ou em que idioma está.
     - O **Machine Learning** é _considerado um pouco diferente_ da **Ciência de Dados** porque não envolvem as aplicações específicas em um domínio específico.
-2. **Traditional Research - Pesquisa Tradicional**:
+2. **Traditional Research - Pesquisa Tradicional** tem _matemática/estatística_ e **conhecimento intensivo do domínio**, mas _sem codificação ou programação_. Os **dados** utilizados na _pesquisa tradicional_ são **altamente estruturados**, ele vem em _linhas e colunas_ e normalmente está _completo e pronto para análise_. Isso não significa que vai ser fácil, pois agora é preciso expandir um enorme esforço nos métodos e na concepção do projeto e na interpretação dos dados. 
 3. **Danger Zone? - Zona de Perigo?**:
 
 12.30
