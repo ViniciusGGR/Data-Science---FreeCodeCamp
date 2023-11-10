@@ -43,4 +43,17 @@ Ciência de Dados -> Obter **``insights``** dos **Dados**.
 2. **Traditional Research - Pesquisa Tradicional** tem _matemática/estatística_ e **conhecimento intensivo do domínio**, mas _sem codificação ou programação_. Os **dados** utilizados na _pesquisa tradicional_ são **altamente estruturados**, ele vem em _linhas e colunas_ e normalmente está _completo e pronto para análise_. Isso não significa que vai ser fácil, pois agora é preciso expandir um enorme esforço nos métodos e na concepção do projeto e na interpretação dos dados. 
 3. **Danger Zone? - Zona de Perigo?** é a _intersecção de codificação e conhecimento de domínio_, mas **sem matemática/estatística**. Um exemplo comum, o que é chamado de "_contagem de palavras_", onde pega um **documento grande ou uma série de documentos**, e _conta quantas vezes uma palavra aparece ali_. Isso pode realmente dizer algumas coisas muito importantes. E também, **desenhando mapas e mostrando como as coisas mudam no lugar e talvez até ao longo do tempo**. Não precisa necessariamente ter **matemática/estatística**, mas pode ser muito perspicaz e útil.
 
-12.30
+---
+
+### Code - (Codificação):
+
+- Pessoas que são programadores, que sabem fazer matemática, estatísticas e negócios. Então, se obtém as três coisas (provavelmente é o tipo mais comum).
+
+### Stats - (Estatísticas):
+
+- Pessoas que são estatísticos e que saibam codificar e que também possam fazer negócios (menos comum, mas acontece).
+
+### Domain - (Domínio específico):
+
+Pessoas que são empresários que podem codificar e fazer matemática/estatística (são menos comum).
+
